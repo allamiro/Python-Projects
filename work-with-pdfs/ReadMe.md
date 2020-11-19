@@ -12,7 +12,7 @@ Install the following libraries using pip module
 ```
 $ pip install pdfminer.six
 $ pip install pymupdf
-$ pip install "camelot-py[cv]"
+$ pip install tabula-py
 ```
 
 ### How to run the codes 
