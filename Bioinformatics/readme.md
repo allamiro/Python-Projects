@@ -67,15 +67,27 @@ Answ.
 
 
 
+
+
 8.  Compute the transpose of a matrix.
 
 Answ.
 
 
 
+
+
+
+
 9. Create a random DNS string and write a Python script to convert the letters to an array of numbers``` (A=1 , C=2 ,  G=3, T=4 )```. Do not use loops ```(for , while )``` to accomplish this conversion. (This can be accomplished in five commands, including the creation of the DNA string. )  
 
 Answ.
+
+
+
+
+
+
 
 
 
