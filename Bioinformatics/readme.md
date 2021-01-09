@@ -12,7 +12,9 @@ https://realpython.com/how-to-use-numpy-arange/#:~:text=The%20main%20difference%
 2. Using the ```numpy.random``` module, create a vector of random numbers?
 
 Answ.
+
 ```
+
 import numpy as np
 y = np.random.random(10)
 print(y)
