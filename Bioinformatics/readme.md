@@ -34,7 +34,7 @@ Answ.
 Answ.
 
 
-7.  Create a 5 x 3 matrix of random numbers. Create a vector of three random numbers. What happens when you run a ```matrix * vector``` ? 
+7.  Create a ```5 x 3 ``` matrix of random numbers. Create a vector of three random numbers. What happens when you run a ```matrix * vector``` ? 
 
 
 Answ.
