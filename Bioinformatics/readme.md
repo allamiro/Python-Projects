@@ -50,9 +50,13 @@ Answ.
 Answ.
 
 
+
+
 6. Create a matrix of random numbers . Multiply this matrix by  scalar in a single Python command.
 
 Answ.
+
+
 
 
 7.  Create a ```5 x 3 ``` matrix of random numbers. Create a vector of three random numbers. What happens when you run a ```matrix * vector``` ? 
@@ -60,13 +64,22 @@ Answ.
 
 Answ.
 
+
+
+
 8.  Compute the transpose of a matrix.
 
 Answ.
 
+
+
 9. Create a random DNS string and write a Python script to convert the letters to an array of numbers``` (A=1 , C=2 ,  G=3, T=4 )```. Do not use loops ```(for , while )``` to accomplish this conversion. (This can be accomplished in five commands, including the creation of the DNA string. )  
 
 Answ.
+
+
+
+
 
 
 
