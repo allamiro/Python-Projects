@@ -43,6 +43,14 @@ print(avgg)
 
 Answ.
 
+```
+
+import numpy as np
+data = np.random.random(1000000)
+summ = np.sum(data)
+print(summ)
+
+```
 
 
 5. Create a vector of random numbers having a range of``` -1 to +1```.
