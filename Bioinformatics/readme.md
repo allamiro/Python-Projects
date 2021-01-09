@@ -5,17 +5,18 @@
 1. what is the different between  ```range``` and ```arange``` functions ?
 
 Answ.
-
 ```range()``` is a built-in python class while ```arange()``` is a function belongs to a third party library ```NumPy```.
-
 Ref.
 https://realpython.com/how-to-use-numpy-arange/#:~:text=The%20main%20difference%20between%20the,using%20the%20Python%20for%20loop.
-
-
 
 2. Using the ```numpy.random``` module, create a vector of random numbers?
 
 Answ.
+
+
+
+
+
 
 
 
