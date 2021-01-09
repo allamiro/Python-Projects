@@ -27,6 +27,15 @@ print(y)
 
 Answ.
 
+```
+
+import numpy as np
+data = np.random.random(1000000)
+avgg = np.average(data)
+print(avgg)
+
+```
+
 
 4. Compute the sum of the columns of a large matrix of random numbers. 
 
