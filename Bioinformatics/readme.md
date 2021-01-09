@@ -13,7 +13,8 @@ Answ.
 
 
 
-3. Without using the for or while commands , computer the average of a vector of 1 million random numbers
+3. Without using the for or while commands , computer the average of a vector of 1 million random numbers.
+
 Answ.
 
 
