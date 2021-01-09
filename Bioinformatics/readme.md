@@ -6,3 +6,9 @@
 
 Answ.
 
+
+2. Using the ```numpy.random``` module, create a vector of random numbers?
+Answ.
+
+
+
