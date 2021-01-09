@@ -46,9 +46,8 @@ Answ.
 ```
 
 import numpy as np
-data = np.random.random(1000000)
-summ = np.sum(data)
-print(summ)
+data = np.random.ranf(10,10)
+
 
 ```
 
@@ -87,11 +86,15 @@ Answ.
 
 
 
-9. Create a random DNS string and write a Python script to convert the letters to an array of numbers``` (A=1 , C=2 ,  G=3, T=4 )```. Do not use loops ```(for , while )``` to accomplish this conversion. (This can be accomplished in five commands, including the creation of the DNA string. )  
+9. Create a random DNA string and write a Python script to convert the letters to an array of numbers``` (A=1 , C=2 ,  G=3, T=4 )```. Do not use loops ```(for , while )``` to accomplish this conversion. (This can be accomplished in five commands, including the creation of the DNA string. )  
 
 Answ.
 
+```
 
+
+
+```
 
 
 
