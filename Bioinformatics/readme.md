@@ -12,13 +12,16 @@ https://realpython.com/how-to-use-numpy-arange/#:~:text=The%20main%20difference%
 2. Using the ```numpy.random``` module, create a vector of random numbers?
 
 Answ.
+```
+import numpy as np
+y = np.random.random(10)
+print(y)
 
+```
 
-
-
-
-
-
+```
+[0.97865888 0.45305264 0.31631339 0.95946004 0.41120162 0.44141162 0.20908311 0.54928171 0.44097501 0.9714066 ]
+```
 
 3. Without using the ```for``` or ```while``` commands , computer the average of a vector of ```1 million``` random numbers.
 
